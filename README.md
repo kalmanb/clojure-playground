@@ -1,4 +1,3 @@
-clojure-playground
-==================
+# clojure-playground
 
-Me mucking arount
+Nothing to see here!
